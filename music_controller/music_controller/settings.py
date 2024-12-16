@@ -131,4 +131,4 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-ALLOWED_HOSTS = ['listen-party.azurewebsites.net']
+ALLOWED_HOSTS = ['listenParty.azurewebsites.net']
